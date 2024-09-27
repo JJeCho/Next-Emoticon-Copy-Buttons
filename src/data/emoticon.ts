@@ -1,0 +1,53 @@
+export interface Emoticon {
+  label: string;
+  text: string;
+}
+
+export const emoticons: Emoticon[] = [
+  { label: "Smiley", text: "😊" },
+  { label: "Thumbs Up", text: "👍" },
+  { label: "Heart", text: "❤️" },
+  { label: "Star", text: "⭐" },
+  { label: "Winking Face", text: "😉" },
+  { label: "Grinning Face", text: "😁" },
+  { label: "Crying Face", text: "😢" },
+  { label: "Laughing Face", text: "😂" },
+  { label: "Party", text: "🥳" },
+  { label: "Cool", text: "😎" },
+  { label: "Thinking", text: "🤔" },
+  { label: "Hugging Face", text: "🤗" },
+  { label: "Sunglasses", text: "🕶️" },
+  { label: "Fire", text: "🔥" },
+  { label: "Rocket", text: "🚀" },
+  { label: "Pensive", text: "😔" },
+  { label: "Blushing", text: "😊" },
+  { label: "Face with Tongue", text: "😛" },
+  { label: "Facepalm", text: "🤦" },
+  { label: "Clapping Hands", text: "👏" },
+  { label: "OK Hand", text: "👌" },
+  { label: "Victory Hand", text: "✌️" },
+  { label: "Flexed Bicep", text: "💪" },
+  { label: "Rainbow", text: "🌈" },
+  { label: "Unicorn", text: "🦄" },
+  { label: "Pineapple", text: "🍍" },
+  { label: "Ice Cream", text: "🍦" },
+  { label: "Pizza", text: "🍕" },
+  { label: "Cupcake", text: "🧁" },
+  { label: "Paw Prints", text: "🐾" },
+  { label: "Cat Face", text: "🐱" },
+  { label: "Dog Face", text: "🐶" },
+  { label: "Penguin", text: "🐧" },
+  { label: "Monkey", text: "🐵" },
+  { label: "Koala", text: "🐨" },
+  { label: "Panda", text: "🐼" },
+  { label: "Turtle", text: "🐢" },
+  { label: "Butterfly", text: "🦋" },
+  { label: "Bee", text: "🐝" },
+  { label: "Cherry Blossom", text: "🌸" },
+  { label: "Sunflower", text: "🌻" },
+  { label: "Moon", text: "🌙" },
+  { label: "Sun", text: "☀️" },
+  { label: "Cloud", text: "☁️" },
+  { label: "Snowflake", text: "❄️" }
+  // Feel free to add even more!
+];

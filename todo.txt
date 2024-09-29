@@ -1,0 +1,7 @@
+-   Allow users to customize which categories of kaomojis appear
+    - Maybe ask for users mood or just select 
+-   Add more kaomojis 
+-   Create a sidebar menu that utilizes clipboard button to allow users to copy kaomojis without clouds 
+-   Modify creation of clouds
+    - Allow creation of clouds on some defined user control 
+    - Allow user to customize speed and size of clouds
